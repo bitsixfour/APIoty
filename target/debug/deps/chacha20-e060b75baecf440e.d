@@ -1,0 +1,12 @@
+/home/will/git/aotyapi/target/debug/deps/chacha20-e060b75baecf440e.d: /home/will/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/chacha20-0.10.0/src/lib.rs /home/will/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/chacha20-0.10.0/src/variants.rs /home/will/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/chacha20-0.10.0/src/backends.rs /home/will/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/chacha20-0.10.0/src/rng.rs /home/will/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/chacha20-0.10.0/src/../README.md /home/will/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/chacha20-0.10.0/src/backends/soft.rs /home/will/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/chacha20-0.10.0/src/backends/avx2.rs /home/will/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/chacha20-0.10.0/src/backends/sse2.rs
+
+/home/will/git/aotyapi/target/debug/deps/libchacha20-e060b75baecf440e.rmeta: /home/will/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/chacha20-0.10.0/src/lib.rs /home/will/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/chacha20-0.10.0/src/variants.rs /home/will/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/chacha20-0.10.0/src/backends.rs /home/will/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/chacha20-0.10.0/src/rng.rs /home/will/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/chacha20-0.10.0/src/../README.md /home/will/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/chacha20-0.10.0/src/backends/soft.rs /home/will/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/chacha20-0.10.0/src/backends/avx2.rs /home/will/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/chacha20-0.10.0/src/backends/sse2.rs
+
+/home/will/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/chacha20-0.10.0/src/lib.rs:
+/home/will/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/chacha20-0.10.0/src/variants.rs:
+/home/will/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/chacha20-0.10.0/src/backends.rs:
+/home/will/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/chacha20-0.10.0/src/rng.rs:
+/home/will/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/chacha20-0.10.0/src/../README.md:
+/home/will/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/chacha20-0.10.0/src/backends/soft.rs:
+/home/will/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/chacha20-0.10.0/src/backends/avx2.rs:
+/home/will/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/chacha20-0.10.0/src/backends/sse2.rs:

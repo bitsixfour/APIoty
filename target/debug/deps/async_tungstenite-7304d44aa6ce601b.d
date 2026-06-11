@@ -1,0 +1,10 @@
+/home/will/git/aotyapi/target/debug/deps/async_tungstenite-7304d44aa6ce601b.d: /home/will/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/async-tungstenite-0.32.1/src/lib.rs /home/will/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/async-tungstenite-0.32.1/src/compat.rs /home/will/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/async-tungstenite-0.32.1/src/handshake.rs /home/will/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/async-tungstenite-0.32.1/src/tokio.rs /home/will/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/async-tungstenite-0.32.1/src/tokio/dummy_tls.rs /home/will/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/async-tungstenite-0.32.1/src/bytes.rs
+
+/home/will/git/aotyapi/target/debug/deps/libasync_tungstenite-7304d44aa6ce601b.rmeta: /home/will/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/async-tungstenite-0.32.1/src/lib.rs /home/will/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/async-tungstenite-0.32.1/src/compat.rs /home/will/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/async-tungstenite-0.32.1/src/handshake.rs /home/will/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/async-tungstenite-0.32.1/src/tokio.rs /home/will/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/async-tungstenite-0.32.1/src/tokio/dummy_tls.rs /home/will/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/async-tungstenite-0.32.1/src/bytes.rs
+
+/home/will/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/async-tungstenite-0.32.1/src/lib.rs:
+/home/will/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/async-tungstenite-0.32.1/src/compat.rs:
+/home/will/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/async-tungstenite-0.32.1/src/handshake.rs:
+/home/will/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/async-tungstenite-0.32.1/src/tokio.rs:
+/home/will/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/async-tungstenite-0.32.1/src/tokio/dummy_tls.rs:
+/home/will/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/async-tungstenite-0.32.1/src/bytes.rs:
